@@ -1,6 +1,6 @@
 {
     "require": {
-        "twitter/bootstrap": "3.3.7",
+        "twitter/bootstrap": "3.3.5",
         "monolog/monolog": "^1.22"
     }
 }
