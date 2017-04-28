@@ -42,7 +42,7 @@
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
                     <span class="sr-only">Toggle navigation</span> Menu <i class="fa fa-bars"></i>
                 </button>
-                <a class="navbar-brand" href="#page-top">1, 2, 3, 4, 5</a>
+                <a class="navbar-brand" href="#page-top">Example</a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
@@ -76,7 +76,7 @@
                     <div class="intro-text">
                         <h1 class="name">John Mestebeld</h1>
                         <hr class="star-light">
-                        <span class="skills">Web Develop ofzo - Graphic Artisy - User Experience Designer</span>
+                        <span class="skills">Front-end Developer</span>
                     </div>
                 </div>
             </div>
